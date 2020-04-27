@@ -46,7 +46,7 @@ namespace IdentityServer
             app.UseIdentityServer();
 
             // uncomment, if you want to add MVC
-            //app.UseAuthorization();
+            app.UseAuthorization();
             app.UseEndpoints(endpoints =>
             {
                   endpoints.MapDefaultControllerRoute();
