@@ -1,0 +1,20 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{2A7457B1-B0EE-4EC3-A105-46703EA5AE0A}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="IdentityServer/IdentityServer.csproj" Line="30" Column="4" />
+      <File FileName="IdentityServer/Data/Migrations/IdentityServer/PersistedGrantDb/20200428104030_InitialIdentityServerPersistedGrantDbMigration.cs" />
+      <File FileName="IdentityServer/Data/Migrations/IdentityServer/PersistedGrantDb/20200428104030_InitialIdentityServerPersistedGrantDbMigration.Designer.cs" />
+      <File FileName="IdentityServer/Data/Migrations/IdentityServer/PersistedGrantDb/PersistedGrantDbContextModelSnapshot.cs" />
+      <File FileName="IdentityServer/Data/Migrations/IdentityServer/ConfigurationDb/20200428104245_InitialIdentityServerConfigurationDbMigration.cs" />
+      <File FileName="IdentityServer/Data/Migrations/IdentityServer/ConfigurationDb/20200428104245_InitialIdentityServerConfigurationDbMigration.Designer.cs" />
+      <File FileName="IdentityServer/Development.db" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.IdentityServer PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
