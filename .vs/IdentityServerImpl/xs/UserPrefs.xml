@@ -1,14 +1,38 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{2A7457B1-B0EE-4EC3-A105-46703EA5AE0A}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="IdentityServer/obj/Debug/netcoreapp3.1/IdentityServer.assets.cache">
     <Files>
-      <File FileName="IdentityServer/IdentityServer.csproj" Line="30" Column="4" />
+      <File FileName="IdentityServer/IdentityServer.csproj" Line="28" Column="8" />
       <File FileName="IdentityServer/Data/Migrations/IdentityServer/PersistedGrantDb/20200428104030_InitialIdentityServerPersistedGrantDbMigration.cs" />
-      <File FileName="IdentityServer/Data/Migrations/IdentityServer/PersistedGrantDb/20200428104030_InitialIdentityServerPersistedGrantDbMigration.Designer.cs" />
       <File FileName="IdentityServer/Data/Migrations/IdentityServer/PersistedGrantDb/PersistedGrantDbContextModelSnapshot.cs" />
       <File FileName="IdentityServer/Data/Migrations/IdentityServer/ConfigurationDb/20200428104245_InitialIdentityServerConfigurationDbMigration.cs" />
       <File FileName="IdentityServer/Data/Migrations/IdentityServer/ConfigurationDb/20200428104245_InitialIdentityServerConfigurationDbMigration.Designer.cs" />
       <File FileName="IdentityServer/Development.db" />
+      <File FileName="IdentityServer/Models/ApplicationUser.cs" Line="13" Column="1" />
+      <File FileName="IdentityServer/obj/Debug/netcoreapp3.1/IdentityServer.assets.cache" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IdentityServerImpl" expanded="True">
+            <Node name="IdentityServer" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="Migrations" expanded="True">
+                  <Node name="IdentityServer" expanded="True">
+                    <Node name="PersistedGrantDb" expanded="True">
+                      <Node name="20200428104030_InitialIdentityServerPersistedGrantDbMigration.cs" expanded="True">
+                        <Node name="20200428104030_InitialIdentityServerPersistedGrantDbMigration.Designer.cs" selected="True" />
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.IdentityServer PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

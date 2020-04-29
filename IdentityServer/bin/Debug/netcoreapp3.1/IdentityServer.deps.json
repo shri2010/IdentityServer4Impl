@@ -25,6 +25,7 @@
       "IdentityServer/1.0.0": {
         "dependencies": {
           "IdentityServer4": "3.1.3",
+          "IdentityServer4.AspNetIdentity": "3.1.3",
           "IdentityServer4.EntityFramework": "3.1.3",
           "Microsoft.EntityFrameworkCore.Design": "3.1.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.3",
@@ -346,6 +347,20 @@
         },
         "compile": {
           "lib/netcoreapp3.1/IdentityServer4.dll": {}
+        }
+      },
+      "IdentityServer4.AspNetIdentity/3.1.3": {
+        "dependencies": {
+          "IdentityServer4": "3.1.3"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/IdentityServer4.AspNetIdentity.dll": {
+            "assemblyVersion": "3.1.3.0",
+            "fileVersion": "3.1.3.0"
+          }
+        },
+        "compile": {
+          "lib/netcoreapp3.1/IdentityServer4.AspNetIdentity.dll": {}
         }
       },
       "IdentityServer4.EntityFramework/3.1.3": {
@@ -936,7 +951,7 @@
           "runtimes/win-arm64/native/sni.dll": {
             "rid": "win-arm64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "4.6.25512.1"
           }
         }
       },
@@ -945,7 +960,7 @@
           "runtimes/win-x64/native/sni.dll": {
             "rid": "win-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "4.6.25512.1"
           }
         }
       },
@@ -954,7 +969,7 @@
           "runtimes/win-x86/native/sni.dll": {
             "rid": "win-x86",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "4.6.25512.1"
           }
         }
       },
@@ -3420,6 +3435,13 @@
       "sha512": "sha512-tNM/M62GLwUYm2qPAmoiHGZrmXXeHZVpoHoclZMYgNfVU/Dlxog/7qyLQrMq8S/NOVB2rs57eKk5VcuVEEdM7A==",
       "path": "identityserver4/3.1.3",
       "hashPath": "identityserver4.3.1.3.nupkg.sha512"
+    },
+    "IdentityServer4.AspNetIdentity/3.1.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-j+etZonSF6XzJ2nOo1zvPiQLjHX7WyI2fsespgK8q74G0Q4TmcglmJfe3eHJAU6/4jQe166/Lz4e0hiyCTfA2Q==",
+      "path": "identityserver4.aspnetidentity/3.1.3",
+      "hashPath": "identityserver4.aspnetidentity.3.1.3.nupkg.sha512"
     },
     "IdentityServer4.EntityFramework/3.1.3": {
       "type": "package",
